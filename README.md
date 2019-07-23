@@ -1,5 +1,5 @@
 # Git-practice
 Practicing workflow using git and github.
 
-##MLH Localhost
+# MLH Localhost
 Workshop on github.
